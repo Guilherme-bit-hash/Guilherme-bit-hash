@@ -1,7 +1,13 @@
 <h1 align="center">👨‍💻 Guilherme Cardoso</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em desenvolvimento 🚀
+  🚀 Desenvolvedor Full Stack em desenvolvimento
+</p>
+
+<p align="center">
+  <a href="COLE_SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -9,21 +15,19 @@
 ## 🚀 Sobre mim
 
 <p>
-Olá! Me chamo <strong>Guilherme</strong> e sou um desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
-
-Atualmente, trabalho na <strong>G4F</strong>, onde venho desenvolvendo minhas habilidades práticas e adquirindo experiência em projetos reais na área de tecnologia.
+Sou um desenvolvedor apaixonado por tecnologia, atualmente atuando na <strong>G4F</strong>, onde venho adquirindo experiência prática em projetos reais.
 </p>
 
 <ul>
-  <li>💼 Desenvolvedor em constante evolução</li>
+  <li>💼 Experiência profissional na área de tecnologia</li>
   <li>🎯 Focado em me tornar um Full Stack completo</li>
   <li>📚 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li>🧠 Sempre aprendendo novas tecnologias</li>
+  <li>🧠 Aprendizado contínuo e evolução constante</li>
 </ul>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
 
@@ -31,14 +35,23 @@ Atualmente, trabalho na <strong>G4F</strong>, onde venho desenvolvendo minhas ha
 
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
 ---
 
-## 🌐 Conecte-se comigo
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -46,11 +59,13 @@ Atualmente, trabalho na <strong>G4F</strong>, onde venho desenvolvendo minhas ha
 ## 📈 Objetivo
 
 <p>
-Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções completas, eficientes e escaláveis, atuando tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>.
+Busco evoluir constantemente como desenvolvedor e construir soluções completas, eficientes e escaláveis, atuando tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>.
 </p>
 
 ---
 
+## ⚡ Destaque
+
 <p align="center">
-  🚀 Em constante evolução | 💻 Focado em tecnologia | 🔥 Rumo ao Full Stack completo
+  💻 Full Stack em evolução | 🚀 Foco em sistemas reais | 🔥 Construindo o futuro
 </p>
