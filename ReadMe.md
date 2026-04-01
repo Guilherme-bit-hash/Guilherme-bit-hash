@@ -1,15 +1,56 @@
-# 💫 About Me:
-sou estudante de análise e desenvolvimento de sistemas<br>procuro um estágio
+<h1 align="center">👨‍💻 Guilherme Cardoso</h1>
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-bit-hash&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  Desenvolvedor Full Stack em desenvolvimento 🚀
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Guilherme-bit-hash&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mim
+
+<p>
+Olá! Me chamo <strong>Guilherme</strong> e sou um desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
+
+Atualmente, trabalho na <strong>G4F</strong>, onde venho desenvolvendo minhas habilidades práticas e adquirindo experiência em projetos reais na área de tecnologia.
+</p>
+
+<ul>
+  <li>💼 Desenvolvedor em constante evolução</li>
+  <li>🎯 Focado em me tornar um Full Stack completo</li>
+  <li>📚 Estudante de Análise e Desenvolvimento de Sistemas</li>
+  <li>🧠 Sempre aprendendo novas tecnologias</li>
+</ul>
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,postgres" />
+
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📈 Objetivo
+
+<p>
+Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções completas, eficientes e escaláveis, atuando tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>.
+</p>
+
+---
+
+<p align="center">
+  🚀 Em constante evolução | 💻 Focado em tecnologia | 🔥 Rumo ao Full Stack completo
+</p>
