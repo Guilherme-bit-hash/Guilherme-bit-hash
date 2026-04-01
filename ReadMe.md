@@ -5,11 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="COLE_SEU_LINKEDIN_AQUI">
+  <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="COLE_SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="COLE_SEU_FACEBOOK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 🚀 Sobre mim
