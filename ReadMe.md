@@ -1,37 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:2962FF,100:FFD700&height=220&section=header&text=Guilherme%20Cardoso&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=00FF88"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Cardoso&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Guilherme Cardoso"/>
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
-  </a>
-</div>
 
-<br>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
+</a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=00FF88&style=for-the-badge&labelColor=0D1117" alt="Visualizações"/>
-  <img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/Guilherme-bit-hash?label=ESTRELAS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github&logoColor=FFD700" alt="Estrelas"/>
-  <img src="https://img.shields.io/badge/STATUS-ATIVO-00FF88?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00FF88" alt="Status"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="COLE_SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="COLE_SEU_INSTAGRAM_AQUI">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="COLE_SEU_GITLAB_AQUI">
-    <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="mailto:COLE_SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Visualizações"/>
+
+<img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores"/>
+
+<img src="https://img.shields.io/github/stars/Guilherme-bit-hash?label=ESTRELAS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github&logoColor=white" alt="Estrelas"/>
+
+<img src="https://img.shields.io/badge/STATUS-ATIVO-00C853?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=white" alt="Status"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="COLE_SEU_LINKEDIN_AQUI">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+
+<a href="COLE_SEU_INSTAGRAM_AQUI">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+</a>
+
+<a href="COLE_SEU_GITLAB_AQUI">
+<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" alt="GitLab"/>
+</a>
+
+<a href="mailto:COLE_SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail"/>
+</a>
+
 </div>
 
 ---
@@ -46,31 +60,64 @@ Atualmente atuo como **Jovem Aprendiz na G4F**, na área de desenvolvimento de s
 
 Meu foco é o desenvolvimento **Full Stack**, buscando compreender todo o ciclo de uma aplicação: desde a interface do usuário até APIs, regras de negócio, banco de dados, autenticação e infraestrutura.
 
-**Interesses:**
+Tenho interesse principalmente em:
 
-- 🚀 Desenvolvimento Full Stack
-- 💻 Desenvolvimento Web
-- 🔌 APIs REST
-- 🗄️ Banco de Dados
-- ☁️ Cloud Computing
-- 🏗️ Arquitetura de Software
-- 🔐 Autenticação e segurança
-- 🧠 Resolução de problemas
-- 📱 Criação de produtos digitais
+* 🚀 Desenvolvimento Full Stack
+* 💻 Desenvolvimento Web
+* 🔌 APIs REST
+* 🗄️ Banco de Dados
+* ☁️ Cloud Computing
+* 🏗️ Arquitetura de Software
+* 🔐 Autenticação e segurança
+* 🧠 Resolução de problemas
+* 📱 Criação de produtos digitais
 
 <br clear="right"/>
 
-### 👨‍💻 Um pouco sobre mim
+## 👨‍💻 Um pouco sobre mim em código
 
 ```javascript
 const guilherme = {
   cargo: "Jovem Aprendiz @ G4F",
+
   foco: "Full Stack Developer",
+
   formacao: "Análise e Desenvolvimento de Sistemas - Senac",
+
   cursoAtual: "Desenvolvimento de Software - 1000h",
-  idiomas: ["Português (nativo)", "Espanhol (fluente)", "Inglês (básico)"],
-  principaisTecnologias: ["Java", "Spring Boot", "PHP", "Laravel", "Python", "Django", "React", "TypeScript", "Vue.js", "MySQL", "PostgreSQL"],
-  ferramentas: ["Git", "GitHub", "GitLab", "Docker", "Postman", "JMeter", "AWS"],
+
+  idiomas: [
+    "Português (nativo)",
+    "Espanhol (fluente)",
+    "Inglês (básico)"
+  ],
+
+  principaisTecnologias: [
+    "Java",
+    "Spring Boot",
+    "PHP",
+    "Laravel",
+    "Python",
+    "Django",
+    "React",
+    "TypeScript",
+    "Vue.js",
+    "MySQL",
+    "PostgreSQL"
+  ],
+
+  ferramentas: [
+    "Git",
+    "GitHub",
+    "GitLab",
+    "Docker",
+    "Postman",
+    "JMeter",
+    "AWS"
+  ],
+
+  objetivo: "Evoluir continuamente como desenvolvedor",
+
   motto: "Sempre evoluindo, um commit por vez 🚀"
 };
 ```
@@ -81,128 +128,83 @@ const guilherme = {
 
 ## 🎨 Frontend
 
-<div align="center">
+<div align="left">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vue" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,tailwind" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117"/>
-</div>
+**HTML5 • CSS3 • JavaScript • TypeScript • React • Vue.js • Vite • Tailwind CSS**
 
 ---
 
 ## ⚙️ Backend
 
-<div align="center">
+<div align="left">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=spring" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=php" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=django" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></a>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,django,nodejs" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117"/>
-</div>
+**Java • Spring Boot • PHP • Laravel • Python • Django • Node.js**
 
 ---
 
 ## 🗄️ Banco de Dados
 
-<div align="center">
+<div align="left">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="60"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="60"/></a>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-</div>
+**MySQL • PostgreSQL • MySQL Workbench**
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud & Infraestrutura
 
-<div align="center">
+<div align="left">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="60"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker" width="60"/></a>
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
-</div>
+**AWS • Docker**
 
 ---
 
 ## 🔧 Ferramentas
 
-<div align="center">
+<div align="left">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gitlab" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postman" width="55"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=npm" width="55"/></a>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=0D1117"/>
-</div>
+**Git • GitHub • GitLab • VS Code • Postman • npm**
 
 ---
 
-## ⚡ Visão Geral
+## 🧪 Testes & Performance
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,java,spring,php,laravel,python,django,nodejs,mysql,postgresql,aws,docker,git,github,gitlab,vscode,postman,npm&theme=dark&perline=8" />
-</div>
+* JMeter
+* Testes de API
+* Testes de Performance
+* Validação de endpoints
+* Testes de integração
+
+---
+
+## 🔐 APIs & Segurança
+
+* REST API
+* Axios
+* JWT
+* Autenticação
+* Autorização
+* Controle de acesso
+* Integração Frontend + Backend
 
 ---
 
@@ -210,74 +212,137 @@ const guilherme = {
 
 ## 🥇 SDA — Sistema de Direitos Autorais
 
-Sistema web para gerenciamento de direitos autorais, autores, contratos, vendas, royalties e saldos.
+Sistema web desenvolvido para gerenciamento de direitos autorais, autores, contratos, vendas, royalties e saldos.
 
-**Funcionalidades:** 👤 Usuários · ✍️ Autores · 📄 Contratos · 💰 Vendas · 💵 Royalties · 📊 Dashboard · 🔐 Auth · 🗄️ BD · 🔄 API
+### Funcionalidades
 
-**Tecnologias:**
+* 👤 Gerenciamento de usuários
+* ✍️ Gerenciamento de autores
+* 📄 Gerenciamento de contratos
+* 💰 Controle de vendas
+* 💵 Gerenciamento de royalties
+* 📊 Dashboard administrativo
+* 📈 Apuração de valores
+* 🔐 Autenticação
+* 🗄️ Persistência em banco de dados
+* 🔄 Comunicação entre frontend e backend através de API
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-</div>
+### Tecnologias
 
-🔗 [github.com/DevDocenteRafael/SDA](https://github.com/DevDocenteRafael/SDA)
+`Laravel` `PHP` `Vue.js` `Vite` `MySQL` `Axios`
+
+### Repositório
+
+🔗 https://github.com/DevDocenteRafael/SDA
 
 ---
 
 ## 🥈 StopBus
 
-Plataforma **B2B** que conecta empresas de transporte a estabelecimentos parceiros.
+Plataforma **B2B** desenvolvida para conectar empresas de transporte a estabelecimentos parceiros.
 
-**Funcionalidades:** 🏢 Empresas · 🍽️ Estabelecimentos · 🚌 Paradas · 💰 Orçamento · 📱 QR Code · ⭐ Avaliações · 👨‍✈️ Motorista · 📊 Gestão
+A proposta é permitir que empresas de transporte encontrem estabelecimentos para realizar paradas, criando oportunidades comerciais para os dois lados.
 
-**Tecnologias:**
+### Funcionalidades
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117"/>
-</div>
+* 🏢 Empresas de transporte
+* 🍽️ Estabelecimentos parceiros
+* 🚌 Gestão de paradas
+* 💰 Orçamento por parada
+* 🤝 Sistema de parceria
+* 📱 QR Code
+* ⭐ Avaliação dos estabelecimentos
+* 👨‍✈️ Confirmação pelo motorista
+* 💳 Controle de valores
+* 📊 Gestão das operações
 
-🔗 [github.com/Guilherme-bit-hash/Stopbus](https://github.com/Guilherme-bit-hash/Stopbus)
+### Tecnologias
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+### Repositório
+
+🔗 https://github.com/Guilherme-bit-hash/Stopbus
 
 ---
 
 ## 🥉 Pizzaria Porteira
 
-Projeto para pizzaria com identidade visual rural/campo.
+Projeto desenvolvido para uma pizzaria, com foco em experiência do cliente, apresentação dos produtos e estrutura de pedidos.
 
-**Funcionalidades:** 🍕 Catálogo · 🛒 Pedidos · 📦 Gestão · 💰 Controle · 📱 Responsivo · 🔌 API · 🗄️ BD
+O projeto utiliza uma identidade visual inspirada no estilo **rural/campo**, buscando unir uma estética tradicional com uma experiência digital moderna.
 
-🔗 [github.com/Guilherme-bit-hash/Pizzaria_Porteira](https://github.com/Guilherme-bit-hash/Pizzaria_Porteira)
+### Funcionalidades
+
+* 🍕 Catálogo de produtos
+* 🛒 Sistema de pedidos
+* 📦 Gerenciamento de pedidos
+* 💰 Controle de produtos
+* 📱 Interface responsiva
+* 🔌 Integração com backend
+* 🗄️ Persistência de dados
+
+### Tecnologias
+
+`Frontend` `Backend` `API` `Banco de Dados`
+
+### Repositório
+
+🔗 https://github.com/Guilherme-bit-hash/Pizzaria_Porteira
 
 ---
 
 ## 🏪 Sistema de Gestão para Padarias
 
-SaaS multiempresa para gerenciamento de funcionários.
+Projeto SaaS pensado para gerenciamento de funcionários e operações de empresas do setor de panificação.
 
-**Funcionalidades:** 👥 Funcionários · 🏢 Empresas · 📋 Checklists · ✅ Tarefas · 📊 Dashboard · 🎯 Metas · 🏆 Gamificação · 🎁 Recompensas · 🔐 Permissões · 🏢 Multiempresa
+A proposta é criar uma solução **multiempresa**, permitindo que diferentes padarias utilizem a mesma plataforma.
 
-**Tecnologias:**
+### Funcionalidades planejadas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
-</div>
+* 👥 Gestão de funcionários
+* 🏢 Gestão de empresas
+* 📋 Checklists
+* ✅ Atividades e tarefas
+* 📊 Dashboard administrativo
+* 🎯 Metas
+* 🏆 Gamificação
+* 🎁 Sistema de recompensas
+* 🔐 Controle de permissões
+* 🏢 Arquitetura multiempresa
+* 📈 Indicadores de desempenho
+
+### Tecnologias
+
+`React` `TypeScript` `PostgreSQL` `REST API` `Docker`
 
 ---
 
 ## 🧠 SkillUp
 
-"Instagram de profissões" — profissionais compartilham e monetizam conhecimento.
+Plataforma de conhecimento profissional baseada no conceito de um **"Instagram de profissões"**.
 
-**Funcionalidades:** 🎥 Conteúdos · 🔒 Pagos · 💰 Monetização · 👤 Perfis · 📚 Categorias · ⭐ Avaliações · 💳 Pagamentos · 💸 Comissão 10%
+A proposta é permitir que profissionais compartilhem conhecimento e monetizem conteúdos ensinando outras pessoas a resolver problemas específicos.
+
+### Exemplo
+
+Um mecânico pode publicar uma prévia ensinando como trocar uma bateria de carro e cobrar um valor para liberar o conteúdo completo.
+
+### Funcionalidades planejadas
+
+* 🎥 Publicação de conteúdos
+* 🔒 Conteúdo pago
+* 💰 Monetização
+* 👤 Perfis profissionais
+* 📚 Categorias
+* ⭐ Avaliações
+* 💳 Sistema de pagamentos
+* 💸 Comissão da plataforma
+* 🔎 Busca por profissionais e conteúdos
+
+### Modelo de negócio
+
+A plataforma pretende receber uma **comissão de 10%** sobre os conteúdos vendidos.
 
 > **"Aprenda com quem realmente sabe fazer."**
 
@@ -285,48 +350,107 @@ SaaS multiempresa para gerenciamento de funcionários.
 
 ## 🌱 AgroMind
 
-Projeto em Django para o setor agrícola.
+Projeto desenvolvido utilizando Django, voltado para criação de soluções digitais relacionadas ao setor agrícola.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-</div>
+### Tecnologias
+
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+---
+
+# 📌 Outros projetos e estudos
+
+Além dos projetos principais, também desenvolvo projetos acadêmicos, experimentais e pessoais envolvendo:
+
+* ☕ Java + Spring Boot
+* 🐘 PHP + Laravel
+* 🐍 Python + Django
+* ⚛️ React + TypeScript
+* 💚 Vue.js
+* 🟨 JavaScript
+* 🗄️ MySQL
+* 🐘 PostgreSQL
+* 🐳 Docker
+* ☁️ AWS
+* 🔌 APIs REST
+* 🔐 JWT
+* 🧪 JMeter
 
 ---
 
 # 💼 Experiência
 
-### 🚀 G4F — Jovem Aprendiz em Desenvolvimento de Software
+## 🚀 G4F
 
-Atuação na área de tecnologia, com foco em desenvolvimento de software e aprendizado de ferramentas utilizadas no mercado.
+### Jovem Aprendiz — Desenvolvimento de Software
 
-### 💻 Projetos Independentes
+Atuação na área de tecnologia, com foco em desenvolvimento de software, aprendizado de ferramentas e tecnologias utilizadas no mercado e participação em atividades relacionadas ao desenvolvimento.
 
-Projetos próprios para praticar programação, arquitetura, banco de dados, APIs, frontend e backend.
+---
+
+## 💻 Projetos Independentes
+
+Além da experiência profissional, desenvolvo projetos próprios para colocar em prática conhecimentos de programação, arquitetura, banco de dados, APIs, frontend e backend.
+
+Esses projetos fazem parte do meu processo contínuo de aprendizado e construção de portfólio.
 
 ---
 
 # 🎓 Formação
 
-- 🏫 **Análise e Desenvolvimento de Sistemas** — Senac
-- 💻 **Desenvolvimento de Software** — Curso de 1000 horas
+## 🏫 Análise e Desenvolvimento de Sistemas
+
+**Senac**
+
+Formação voltada para desenvolvimento de software, banco de dados, engenharia de software, programação e desenvolvimento de aplicações.
+
+---
+
+## 💻 Desenvolvimento de Software
+
+**Curso de 1000 horas**
+
+Formação prática focada em desenvolvimento de software e preparação para atuação profissional na área de tecnologia.
 
 ---
 
 # 📚 Atualmente estudando
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,react,vue,ts,django,postgresql,docker,aws,git,github&theme=dark&perline=6"/>
-</div>
+Meu foco atual de estudos está principalmente em:
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🐘 Laravel
+* ⚛️ React
+* 💚 Vue.js
+* 🔷 TypeScript
+* 🐍 Django
+* 🐘 PostgreSQL
+* 🐳 Docker
+* ☁️ AWS
+* 🔌 APIs REST
+* 🏗️ Arquitetura de Software
+* 🔐 Segurança e autenticação
+* 🧪 Testes e performance
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&show_icons=true&include_all_commits=true&count_private=true&border_color=00FF88&title_color=00D9FF&icon_color=FFD700&text_color=ffffff&bg_color=0D1117&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&layout=compact&langs_count=8&border_color=00FF88&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&border_radius=15"/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+alt="GitHub Stats"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&layout=compact&langs_count=8&theme=tokyonight"
+alt="Top Languages"
+/>
+
 </div>
 
 ---
@@ -334,44 +458,39 @@ Projetos próprios para praticar programação, arquitetura, banco de dados, API
 # 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guilherme-bit-hash&border=00FF88&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&background=0D1117&stroke=00FF88&dates=ffffff&sideLabels=FFD700&currStreakNum=FFD700&sideNums=00FF88&border_radius=15"/>
+
+<img
+src="https://streak-stats.demolab.com?user=Guilherme-bit-hash&theme=tokyonight&hide_border=false"
+alt="GitHub Streak"
+/>
+
 </div>
 
 ---
 
-# 🏆 Troféus
+# 👾 Minhas contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-bit-hash&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</div>
 
----
+<img
+src="https://raw.githubusercontent.com/Guilherme-bit-hash/Guilherme-bit-hash/output/pacman.svg"
+alt="Pac-Man Contribution Graph"
+/>
 
-# 📈 Gráfico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-bit-hash&bg_color=0D1117&color=00D9FF&line=00FF88&point=FFD700&area=true&area_color=00C853&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Atividade"/>
-</div>
-
----
-
-# 🐍 Minhas contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme-bit-hash/Guilherme-bit-hash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
 # 🎯 Objetivos
 
-- 🚀 Evoluir como desenvolvedor Full Stack
-- 💼 Crescer profissionalmente
-- 🏗️ Desenvolver sistemas reais e escaláveis
-- 🧠 Aprender novas tecnologias
-- ☁️ Aprofundar em Cloud Computing
-- 🔐 Evoluir em arquitetura e segurança
-- 🌎 Trabalhar em projetos de grande impacto
+* 🚀 Evoluir como desenvolvedor Full Stack
+* 💼 Crescer profissionalmente na área de tecnologia
+* 🏗️ Desenvolver sistemas reais e escaláveis
+* 🧠 Aprender novas tecnologias
+* ☁️ Aprofundar conhecimentos em Cloud Computing
+* 🔐 Evoluir em arquitetura e segurança
+* 🌎 Trabalhar em projetos de grande impacto
+* 📚 Continuar estudando e evoluindo constantemente
 
 ---
 
@@ -379,12 +498,17 @@ Projetos próprios para praticar programação, arquitetura, banco de dados, API
 
 > **"Não preciso saber tudo. Preciso estar sempre disposto a aprender."**
 
+Cada projeto é uma oportunidade para aprender algo novo, resolver problemas e escrever código melhor.
+
 <div align="center">
 
 ### 🚀 Sempre evoluindo, um commit por vez.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:2962FF,100:FFD700&height=140&section=footer&text=Obrigado+pela+visita!+%F0%9F%9A%80&fontSize=22&fontColor=00FF88&animation=twinkling"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+alt="Footer"
+/>
 
 </div>
