@@ -1,100 +1,50 @@
-<!-- ═══════════════════════════════════════════════════ -->
-
-<!-- BANNER                                               -->
-
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Cardoso&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=20"
-    alt="Banner Guilherme Cardoso"
-  />
-</div>
-
-<!-- ═══════════════════════════════════════════════════ -->
-
-<!-- TYPING                                               -->
-
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-
-<!-- STATUS                                               -->
-
-<!-- ═══════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img
- src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=00D9FF&style=for-the-badge&labelColor=0D1117"
- alt="Visualizações"
-/>
-
-<img
- src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white"
- alt="Seguidores"
-/>
-
-<img
- src="https://img.shields.io/github/stars/Guilherme-bit-hash?label=ESTRELAS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github&logoColor=white"
- alt="Estrelas"
-/>
-
-<img
- src="https://img.shields.io/badge/STATUS-ATIVO-00C853?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=white"
- alt="Status"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Cardoso&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Guilherme Cardoso"/>
 
 </div>
 
-<br/>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════ -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
+</a>
 
-<!-- REDES SOCIAIS                                       -->
+</div>
 
-<!-- ═══════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-  <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"
-      alt="LinkedIn"
-    />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Visualizações"/>
 
-  <a href="COLE_SEU_INSTAGRAM_AQUI" target="_blank">
-    <img
-      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"
-      alt="Instagram"
-    />
-  </a>
+<img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores"/>
 
-  <a href="COLE_SEU_GITLAB_AQUI" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117"
-      alt="GitLab"
-    />
-  </a>
+<img src="https://img.shields.io/github/stars/Guilherme-bit-hash?label=ESTRELAS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github&logoColor=white" alt="Estrelas"/>
 
-  <a href="mailto:COLE_SEU_EMAIL_AQUI">
-    <img
-      src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
-      alt="E-mail"
-    />
-  </a>
+<img src="https://img.shields.io/badge/STATUS-ATIVO-00C853?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=white" alt="Status"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="COLE_SEU_LINKEDIN_AQUI">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+
+<a href="COLE_SEU_INSTAGRAM_AQUI">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+</a>
+
+<a href="COLE_SEU_GITLAB_AQUI">
+<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" alt="GitLab"/>
+</a>
+
+<a href="mailto:COLE_SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail"/>
+</a>
 
 </div>
 
@@ -102,31 +52,31 @@
 
 # 👨‍💻 Sobre mim
 
-<img
-align="right"
-alt="Coding"
-width="350"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Olá! Eu sou **Guilherme Cardoso**, desenvolvedor em formação e apaixonado por tecnologia, programação e criação de soluções.
+Olá! Eu sou **Guilherme Cardoso**, desenvolvedor de software apaixonado por tecnologia, programação e criação de soluções.
 
-Atualmente atuo como **Jovem Aprendiz na G4F**, na área de desenvolvimento de software, enquanto continuo aprimorando minhas habilidades através de estudos, projetos pessoais e experiências práticas.
+Atualmente atuo como **Jovem Aprendiz na G4F**, na área de desenvolvimento de software, e venho construindo minha experiência através de projetos profissionais, acadêmicos e pessoais.
 
-Meu principal objetivo é me tornar um **Desenvolvedor Full Stack**, trabalhando tanto no frontend quanto no backend e entendendo todo o ciclo de desenvolvimento de uma aplicação.
+Meu foco é o desenvolvimento **Full Stack**, buscando compreender todo o ciclo de uma aplicação: desde a interface do usuário até APIs, regras de negócio, banco de dados, autenticação e infraestrutura.
 
-Tenho interesse especialmente em:
+Tenho interesse principalmente em:
 
-* 🚀 Desenvolvimento Web
-* 💻 Desenvolvimento Full Stack
+* 🚀 Desenvolvimento Full Stack
+* 💻 Desenvolvimento Web
 * 🔌 APIs REST
 * 🗄️ Banco de Dados
 * ☁️ Cloud Computing
 * 🏗️ Arquitetura de Software
+* 🔐 Autenticação e segurança
 * 🧠 Resolução de problemas
 * 📱 Criação de produtos digitais
 
+<br clear="right"/>
 
+### 👨‍💻 Um pouco sobre mim em código
+
+```javascript
 const guilherme = {
   cargo: "Jovem Aprendiz @ G4F",
 
@@ -171,8 +121,6 @@ const guilherme = {
   motto: "Sempre evoluindo, um commit por vez 🚀"
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -272,7 +220,7 @@ Sistema web desenvolvido para gerenciamento de direitos autorais, autores, contr
 * ✍️ Gerenciamento de autores
 * 📄 Gerenciamento de contratos
 * 💰 Controle de vendas
-* 💵 Cálculo e gerenciamento de royalties
+* 💵 Gerenciamento de royalties
 * 📊 Dashboard administrativo
 * 📈 Apuração de valores
 * 🔐 Autenticação
@@ -293,7 +241,7 @@ Sistema web desenvolvido para gerenciamento de direitos autorais, autores, contr
 
 Plataforma **B2B** desenvolvida para conectar empresas de transporte a estabelecimentos parceiros.
 
-A ideia é permitir que empresas de transporte encontrem estabelecimentos para realizar paradas, criando oportunidades comerciais para os dois lados.
+A proposta é permitir que empresas de transporte encontrem estabelecimentos para realizar paradas, criando oportunidades comerciais para os dois lados.
 
 ### Funcionalidades
 
@@ -344,11 +292,11 @@ O projeto utiliza uma identidade visual inspirada no estilo **rural/campo**, bus
 
 ---
 
-# 🏪 Sistema de Gestão para Padarias
+## 🏪 Sistema de Gestão para Padarias
 
 Projeto SaaS pensado para gerenciamento de funcionários e operações de empresas do setor de panificação.
 
-A proposta é criar uma solução **multiempresa**, permitindo que várias padarias utilizem a mesma plataforma.
+A proposta é criar uma solução **multiempresa**, permitindo que diferentes padarias utilizem a mesma plataforma.
 
 ### Funcionalidades planejadas
 
@@ -364,17 +312,13 @@ A proposta é criar uma solução **multiempresa**, permitindo que várias padar
 * 🏢 Arquitetura multiempresa
 * 📈 Indicadores de desempenho
 
-### Arquitetura
-
-O projeto está sendo pensado para suportar um grande volume de empresas e funcionários, utilizando uma arquitetura preparada para crescimento.
-
 ### Tecnologias
 
-`PostgreSQL` `REST API` `Docker` `React` `TypeScript`
+`React` `TypeScript` `PostgreSQL` `REST API` `Docker`
 
 ---
 
-# 🧠 SkillUp
+## 🧠 SkillUp
 
 Plataforma de conhecimento profissional baseada no conceito de um **"Instagram de profissões"**.
 
@@ -404,7 +348,7 @@ A plataforma pretende receber uma **comissão de 10%** sobre os conteúdos vendi
 
 ---
 
-# 🌱 AgroMind
+## 🌱 AgroMind
 
 Projeto desenvolvido utilizando Django, voltado para criação de soluções digitais relacionadas ao setor agrícola.
 
@@ -414,9 +358,9 @@ Projeto desenvolvido utilizando Django, voltado para criação de soluções dig
 
 ---
 
-# 📚 Outros projetos e estudos
+# 📌 Outros projetos e estudos
 
-Também desenvolvo projetos e estudos utilizando:
+Além dos projetos principais, também desenvolvo projetos acadêmicos, experimentais e pessoais envolvendo:
 
 * ☕ Java + Spring Boot
 * 🐘 PHP + Laravel
@@ -438,7 +382,7 @@ Também desenvolvo projetos e estudos utilizando:
 
 ## 🚀 G4F
 
-**Jovem Aprendiz — Desenvolvimento de Software**
+### Jovem Aprendiz — Desenvolvimento de Software
 
 Atuação na área de tecnologia, com foco em desenvolvimento de software, aprendizado de ferramentas e tecnologias utilizadas no mercado e participação em atividades relacionadas ao desenvolvimento.
 
@@ -448,7 +392,7 @@ Atuação na área de tecnologia, com foco em desenvolvimento de software, apren
 
 Além da experiência profissional, desenvolvo projetos próprios para colocar em prática conhecimentos de programação, arquitetura, banco de dados, APIs, frontend e backend.
 
-Esses projetos também fazem parte do meu processo de aprendizado e construção de portfólio.
+Esses projetos fazem parte do meu processo contínuo de aprendizado e construção de portfólio.
 
 ---
 
@@ -496,15 +440,15 @@ Meu foco atual de estudos está principalmente em:
 <div align="center">
 
 <img
- height="180em"
- src="https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
- alt="GitHub Stats"
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+alt="GitHub Stats"
 />
 
 <img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&layout=compact&langs_count=8&theme=tokyonight"
- alt="Top Languages"
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&layout=compact&langs_count=8&theme=tokyonight"
+alt="Top Languages"
 />
 
 </div>
@@ -516,21 +460,21 @@ Meu foco atual de estudos está principalmente em:
 <div align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=Guilherme-bit-hash&theme=tokyonight&hide_border=false"
- alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Guilherme-bit-hash&theme=tokyonight&hide_border=false"
+alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-# 🐍 Contribuições
+# 🐍 Minhas contribuições
 
 <div align="center">
 
 <img
- src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
- alt="Snake animation"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+alt="Snake animation"
 />
 
 </div>
@@ -539,8 +483,8 @@ Meu foco atual de estudos está principalmente em:
 
 # 🎯 Objetivos
 
-* 🚀 Me tornar um desenvolvedor Full Stack cada vez mais completo
-* 💼 Evoluir profissionalmente na área de tecnologia
+* 🚀 Evoluir como desenvolvedor Full Stack
+* 💼 Crescer profissionalmente na área de tecnologia
 * 🏗️ Desenvolver sistemas reais e escaláveis
 * 🧠 Aprender novas tecnologias
 * ☁️ Aprofundar conhecimentos em Cloud Computing
@@ -550,7 +494,7 @@ Meu foco atual de estudos está principalmente em:
 
 ---
 
-# 📈 Minha filosofia
+# 🧠 Minha filosofia
 
 > **"Não preciso saber tudo. Preciso estar sempre disposto a aprender."**
 
@@ -560,7 +504,7 @@ Cada projeto é uma oportunidade para aprender algo novo, resolver problemas e e
 
 ### 🚀 Sempre evoluindo, um commit por vez.
 
-<br/>
+<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
