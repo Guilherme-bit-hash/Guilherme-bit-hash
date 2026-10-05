@@ -42,13 +42,6 @@
 
 ---
 
-<!-- Cobra comendo contribuições (anima!) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme-bit-hash/Guilherme-bit-hash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
