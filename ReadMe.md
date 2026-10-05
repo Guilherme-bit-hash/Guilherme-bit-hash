@@ -126,7 +126,7 @@ Tenho interesse especialmente em:
 * 🧠 Resolução de problemas
 * 📱 Criação de produtos digitais
 
-```javascript
+
 const guilherme = {
   cargo: "Jovem Aprendiz @ G4F",
 
