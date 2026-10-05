@@ -1,30 +1,30 @@
 <!-- ═══════════════════════════════════════════════════ -->
-<!-- BANNER COM GRADIENTE NEON                           -->
+<!-- BANNER VERDE → AZUL → AMARELO                       -->
 <!-- ═══════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=220&section=header&text=Guilherme%20Cardoso&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:2962FF,100:FFD700&height=220&section=header&text=Guilherme%20Cardoso&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=00FF88"/>
 </div>
 
-<!-- TEXTO DIGITANDO NEON -->
+<!-- TEXTO DIGITANDO AZUL CIANO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
   </a>
 </div>
 
 <br>
 
-<!-- BADGES DE STATUS NEON -->
+<!-- BADGES DE STATUS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=FF0080&style=for-the-badge&labelColor=0D1117" alt="Visualizações"/>
-  <img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00DFD8&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores"/>
+  <img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=VISUALIZA%C3%87%C3%95ES&color=00FF88&style=for-the-badge&labelColor=0D1117" alt="Visualizações"/>
+  <img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=SEGUIDORES&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white" alt="Seguidores"/>
   <img src="https://img.shields.io/github/stars/Guilherme-bit-hash?label=ESTRELAS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github&logoColor=FFD700" alt="Estrelas"/>
-  <img src="https://img.shields.io/badge/STATUS-ATIVO-39FF14?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=39FF14" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-ATIVO-00FF88?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00FF88" alt="Status"/>
 </div>
 
 <br>
 
-<!-- REDES SOCIAIS NEON -->
+<!-- REDES SOCIAIS -->
 <div align="center">
   <a href="COLE_SEU_LINKEDIN_AQUI">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
