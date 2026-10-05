@@ -1,79 +1,66 @@
-<h1 align="center">👨‍💻 Guilherme Cardoso</h1>
+<!-- Banner de boas-vindas animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Cardoso&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=20"/>
+</div>
 
-<p align="center">
-  🚀 Desenvolvedor Full Stack em desenvolvimento
-</p>
+<!-- Texto animado digitando -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Jovem+Aprendiz+na+G4F+%F0%9F%9A%80;Formado+em+ADS+%F0%9F%8E%93;Full+Stack+em+evolu%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
+<br/>
+
+<!-- Status animados -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guilherme-bit-hash&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/Guilherme-bit-hash?label=Seguidores&style=for-the-badge&color=00D9FF&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status"/>
+</div>
+
+<br/>
+
+<!-- Redes sociais -->
+<div align="center">
   <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="COLE_SEU_INSTAGRAM_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
   <a href="COLE_SEU_FACEBOOK_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
+  <a href="COLE_SEU_GITLAB_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <a href="mailto:COLE_SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<!-- Cobra comendo contribuições (anima!) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Guilherme-bit-hash/Guilherme-bit-hash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 ## 🚀 Sobre mim
 
-<p>
-Sou um desenvolvedor apaixonado por tecnologia, atualmente atuando na <strong>G4F</strong>, onde venho adquirindo experiência prática em projetos reais.
-</p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<ul>
-  <li>💼 Experiência profissional na área de tecnologia</li>
-  <li>🎯 Focado em me tornar um Full Stack completo</li>
-  <li>📚 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li>🧠 Aprendizado contínuo e evolução constante</li>
-</ul>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,postgres" />
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
----
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guilherme-bit-hash&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-bit-hash&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bit-hash&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
----
-
-## 📈 Objetivo
-
-<p>
-Busco evoluir constantemente como desenvolvedor e construir soluções completas, eficientes e escaláveis, atuando tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>.
-</p>
-
----
-
-## ⚡ Destaque
-
-<p align="center">
-  💻 Full Stack em evolução | 🚀 Foco em sistemas reais | 🔥 Construindo o futuro
-</p>
+```javascript
+const guilherme = {
+  cargo: "Jovem Aprendiz @ G4F",
+  formacao: "Análise e Desenvolvimento de Sistemas - Senac",
+  cursoAtual: "Desenvolvimento de Software (1000h)",
+  idiomas: ["Português (nativo)", "Espanhol (fluente)", "Inglês (básico)"],
+  foco: "Full Stack Developer",
+  ferramentas: ["Git", "GitHub", "GitLab", "JMeter"],
+  hobbies: ["Codar", "Aprender", "Criar soluções"],
+  motto: "Sempre evoluindo, um commit por vez 🚀"
+};
